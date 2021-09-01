@@ -36,10 +36,8 @@ nav {
 }
 
 #main {
-    float: right;
-    
+    float: right;    
     margin-bottom: 0px;
-    border: double;
 }
 
 footer {
