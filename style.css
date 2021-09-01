@@ -37,8 +37,9 @@ nav {
 
 #main {
     float: right;
-    width: 50%;
+    
     margin-bottom: 0px;
+    border: double;
 }
 
 footer {
@@ -81,31 +82,22 @@ nav>ul {
     padding: 0;
     
 }
+
 table,
 td,
 th {
     border: 1px solid black;
     border-collapse: collapse;
     padding: 5px;
+   
 }
 
-#divleft{
-    float: left;
-    width: 20%;
-}
-#divright{
-    float:right;
-    width: 60%;
-    background-color: rgb(243, 242, 159);
-    color: rgb(0, 0, 0);
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 5px;
-}
+
 
 #first
 {
     float:left;
 }
+
     
 
