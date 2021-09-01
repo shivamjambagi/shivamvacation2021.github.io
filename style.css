@@ -91,17 +91,18 @@ th {
 
 #divleft{
     float: left;
-    width: 30%;
+    width: 20%;
 }
 #divright{
-    float: right;
-    width: 70%;
+    float:right;
+    width: 60%;
     background-color: rgb(243, 242, 159);
     color: rgb(0, 0, 0);
     border: 1px solid black;
     border-collapse: collapse;
     padding: 5px;
 }
+
 #first
 {
     float:left;
