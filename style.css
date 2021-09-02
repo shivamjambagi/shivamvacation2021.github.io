@@ -60,6 +60,7 @@ nav>ul>li a {
     padding: 16px;
     text-decoration: none;
     font-weight: bold;
+    font-size: 20px;
 }
 nav>ul>li {
     float: left;
@@ -120,10 +121,11 @@ th {
     /* Negative indent footer by it's height */
     margin: 0;
     background: grey;
-    background-image:url(https://i.imgur.com/d3Lhs5H.jpg),url(https://i.imgur.com/f3LHrZ5.jpg); 
+    background-image:url(https://i.imgur.com/d3Lhs5H.jpg),url(https://i.imgur.com/RUfctqj.jpg);
     background-position: top left, bottom left;
-    background-repeat: no-repeat, repeat;
-    background-size:175% 175%
+    background-position-y: 0px, 1250px;
+    background-repeat: no-repeat, no-repeat;
+    background-size:175% 175%,175% 175% ;
 }
 
 footer {
