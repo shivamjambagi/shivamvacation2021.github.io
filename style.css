@@ -10,8 +10,6 @@ body {
   margin-bottom:50px;
 }
 
-
-
 #mainheader {
     background-color: #3d6e2c;
     width: 100%;}
@@ -20,13 +18,6 @@ nav {
     height: 50px;
     width: 100%;
     margin: 0 auto 20px;
-
-}
-
-#leftmenu {
-    /* float: left;
-    width: 50%;
-    margin-bottom: 20px;  */
 
 }
 
@@ -110,11 +101,7 @@ th {
     width: 600px;
     height: 500px;
 }
-#mainright{
-    float: right;
-    /* width: 10%; */
-    margin-bottom: 20px;
-}
+
 #wrap{
     min-height: 100%;
     height: auto !important;
