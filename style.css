@@ -3,7 +3,7 @@ body {
     background-color: #addeeb;
     /* background-image: url("https://i.imgur.com/d3Lhs5H.jpg"); */
     background-repeat: no-repeat;
-  background-size:1700px;
+  background-size:100%;
   width:100%; /*Takes 90% width from WebContainer*/
   height: auto;
   margin: auto;
@@ -14,19 +14,19 @@ body {
 
 #mainheader {
     background-color: #3d6e2c;
-    width: 3500px;}
+    width: 100%;}
 
 nav {
     height: 50px;
-    width: 1000px;
+    width: 100%;
     margin: 0 auto 20px;
 
 }
 
 #leftmenu {
-    float: left;
-    width: 60%;
-    margin-bottom: 20px; 
+    /* float: left;
+    width: 50%;
+    margin-bottom: 20px;  */
 
 }
 
@@ -92,7 +92,7 @@ th {
   
 #leftmenu {
     float: left;
-    width: 60%; 
+    /* width: 10%;  */
     margin-bottom: 20px;
 
 }
@@ -105,7 +105,8 @@ th {
     margin-left: auto;
     margin-right: auto;
     background-repeat: no-repeat;
-    float: right;
+    /* float:inherit; */
+    margin-right:  100px;
     width: 600px;
     height: 500px;
 }
@@ -123,9 +124,9 @@ th {
     background: grey;
     background-image:url(https://i.imgur.com/d3Lhs5H.jpg),url(https://i.imgur.com/RUfctqj.jpg);
     background-position: top left, bottom left;
-    background-position-y: 0px, 1250px;
+    background-position-y: 0px, 1000px;
     background-repeat: no-repeat, no-repeat;
-    background-size:175% 175%,175% 175% ;
+    background-size:100% 150%,100% 100% ;
 }
 
 footer {
